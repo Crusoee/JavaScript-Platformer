@@ -1,0 +1,20 @@
+#game{
+    width: 500px;
+    height: 500px;
+    border: 1px solid black;
+    margin: auto;
+    position: relative;
+}
+
+#character{
+    width: 20px;
+    height: 20px;
+    background-color: red;
+    position: absolute;
+    top: 480px;
+    left: 490px;
+    display: inline-block;
+    z-index: 2;
+}
+
+
